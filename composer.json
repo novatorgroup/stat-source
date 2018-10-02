@@ -1,0 +1,25 @@
+{
+  "name": "novatorgroup/stat-source",
+  "version": "1.0.0",
+  "description": "Novator Group Statistic Source",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Melnikov Ruslan",
+      "email": "mrs2000@inbox.ru"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.13"
+  },
+  "autoload": {
+    "psr-4": {
+      "novatorgroup\\statsource\\": ""
+    }
+  }
+}
